@@ -15,6 +15,41 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
+
+
+!---powered by R-----
+||docker.com
+||dropbox.com
+.dropbox.com
+||epicgames.com
+.epicgames.com
+||greasyfork.org
+||he.net
+.he.net
+.hdpdf.blog
+.javroot.com
+||lexy.com.hk
+.muamh.com
+||nintendo.com
+.nintendo.com
+||playstation.com
+.playstation.com
+||rarbgprx.org
+.rarbgprx.org
+||steamcommunity.com
+|steamcommunity
+.steamcommunity-a.akamaihd.net
+||steampowered.com
+||steamstatic.com
+||tampermonkey.net
+||torrentz2.eu
+||tunnelbroker.net
+.tunnelbroker.net
+||ubisoft.com
+.ubisoft.com
+
+
+
 !---------403/451/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
