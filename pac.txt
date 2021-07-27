@@ -38,11 +38,6 @@
 .playstation.com
 ||rarbgprx.org
 .rarbgprx.org
-||steamcommunity.com
-|steamcommunity
-.steamcommunity-a.akamaihd.net
-||steampowered.com
-||steamstatic.com
 ||tampermonkey.net
 ||torrentz2.eu
 ||tunnelbroker.net
@@ -1528,14 +1523,19 @@ userapi.nytlog.com
 cn.nytstyle.com
 ||nytstyle.com
 
-!!---Steam---
-.steamcommunity.com
-||steamcommunity.com
+!---Steam---
+!.steamcommunity.com
+!||steamcommunity.com
+!|steamcommunity
+!.steamcommunity-a.akamaihd.net
 !--steamcommunity.com/profiles/76561198062771609
 !--steamcommunity.com/groups/LibetTibet
 !--steamcommunity.com/groups/zhonggong
 !--steamcommunity.com/id/CJT_Jackton
-|http://store.steampowered.com/app/333600
+!|http://store.steampowered.com/app/333600
+!||steampowered.com
+!||steamstatic.com
+
 
 !!---Telegram---
 !!!---Domain---
