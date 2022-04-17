@@ -1095,6 +1095,7 @@ cn.nytstyle.com
 ||telegram.dog
 ||telegram.me
 ||telegram.org
+||telegram.ph
 .telegramdownload.com
 ||telesco.pe
 !!!---IP---
@@ -3245,6 +3246,8 @@ gigporno.ru
 |http://softwaredownload.gitbooks.io
 
 !---GitHub---
+.github.com
+||github.com
 github.com/getlantern
 |https://gist.github.com
 http://cthlo.github.io/hktv
