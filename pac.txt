@@ -35,6 +35,7 @@
 ||rarbgprx.org
 .rarbgprx.org
 ||tampermonkey.net
+||telegra.ph
 ||torrentz2.eu
 !--||tunnelbroker.net
 !--.tunnelbroker.net
@@ -46,6 +47,7 @@
 !--.nintendo.com
 !--||playstation.com
 !--.playstation.com
+
 
 !#############Personal List End#################
 
@@ -1095,7 +1097,6 @@ cn.nytstyle.com
 ||telegram.dog
 ||telegram.me
 ||telegram.org
-||telegram.ph
 .telegramdownload.com
 ||telesco.pe
 !!!---IP---
