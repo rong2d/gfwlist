@@ -18,7 +18,9 @@
 
 !#############Personal List Start###############
 !---powered by R-----
+||bdys.me
 ||blacked.com
+||btbdys.com
 ||btbtt14.com
 ||docker.com
 ||dropbox.com
