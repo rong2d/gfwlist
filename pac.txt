@@ -21,7 +21,7 @@
 ||bdys.me
 ||blacked.com
 ||btbdys.com
-||btbtt14.com
+||btbtt12.com
 ||docker.com
 ||dropbox.com
 .dropbox.com
@@ -39,16 +39,16 @@
 ||tampermonkey.net
 ||telegra.ph
 ||torrentz2.eu
-!--||tunnelbroker.net
-!--.tunnelbroker.net
-!--||ubisoft.com
-!--.ubisoft.com
-!--||he.net
-!--.he.net
-!--||nintendo.com
-!--.nintendo.com
-!--||playstation.com
-!--.playstation.com
+--||tunnelbroker.net
+--.tunnelbroker.net
+--||ubisoft.com
+--.ubisoft.com
+--||he.net
+--.he.net
+--||nintendo.com
+--.nintendo.com
+--||playstation.com
+--.playstation.com
 
 
 !#############Personal List End#################
