@@ -49,6 +49,8 @@
 --.nintendo.com
 --||playstation.com
 --.playstation.com
+--||pbskids.org
+--.pbskids.org
 
 
 !#############Personal List End#################
