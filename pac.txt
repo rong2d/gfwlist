@@ -38,6 +38,8 @@
 .muamh.com
 ||nintendo.com
 .nintendo.com
+||openai.com
+.openai.com
 ||playstation.com
 .playstation.com
 ||pbskids.org
