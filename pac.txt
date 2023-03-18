@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: mIShJtvB4UUaZ7ms+0fm4g
+! Checksum: Lmde7r8MXmLaN7dSMdXxfg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 04 Nov 2019 11:21:47 -0500
+! Last Modified: Tue, 28 Feb 2023 22:50:34 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -15,7 +15,6 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
-
 !#############Personal List Start###############
 !---powered by R-----
 ||bdys.me
@@ -23,12 +22,9 @@
 ||btbdys.com
 ||btbtt12.com
 ||docker.com
-||dropbox.com
-.dropbox.com
 ||epicgames.com
 .epicgames.com
 ||greasyfork.org
-!.hdpdf.blog
 ||he.net
 .he.net
 .imagetwist.com
@@ -38,28 +34,25 @@
 .muamh.com
 ||nintendo.com
 .nintendo.com
-||openai.com
-.openai.com
 ||playstation.com
 .playstation.com
 ||pbskids.org
 .pbskids.org
-||rarbgprx.org
-.rarbgprx.org
 ||tampermonkey.net
-||telegra.ph
 ||torrentz2.eu
 ||tunnelbroker.net
 .tunnelbroker.net
 ||ubisoft.com
 .ubisoft.com
-
 !#############Personal List End#################
 
-!---------403/451/520 & URL Redirects---------
+
+
+!---------403/451/503/520 & URL Redirects---------
 !--ehentai
 |http://85.17.73.31/
 !--||adorama.com
+||afreecatv.com
 ||agnesb.fr
 ||akiba-web.com
 ||altrec.com
@@ -74,13 +67,12 @@
 ||azubu.tv
 ||bankmobilevibe.com
 ||banorte.com
-||bash-hackers.org
 ||beeg.com
 ||global.bing.com
-||bloombergview.com
 ||booktopia.com.au
 ||boysmaster.com
 ||bynet.co.il
+||byrut.org
 ||carfax.com
 .casinobellini.com
 ||casinobellini.com
@@ -92,12 +84,15 @@
 ||counter.social
 ||costco.com
 ||crossfire.co.kr
+||crunchyroll.com
 ||d2pass.com
 ||darpa.mil
 ||dawangidc.com
 ||deezer.com
 ||desipro.de
 ||dingchin.com.tw
+||discord.com
+||discord.gg
 ||discordapp.com
 ||discordapp.net
 ||dish.com
@@ -108,6 +103,7 @@ share.dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
 ||dnvod.tv
+||dubox.com
 ||dvdpac.com
 ||eesti.ee
 ||esurance.com
@@ -128,8 +124,9 @@ share.dmhy.org
 ||g-area.org
 ||gettyimages.com
 ||getuploader.com
-|https://github.com/programthink/zhao
-|https://raw.githubusercontent.com/programthink/zhao
+||ghidra-sre.org
+!--|https://github.com/programthink/zhao
+!--|https://raw.githubusercontent.com/programthink/zhao
 ||glass8.eu
 ||glype.com
 ||go141.com
@@ -139,6 +136,7 @@ share.dmhy.org
 ||wego.here.com
 ||gamer-cds.cdn.hinet.net
 ||gamer2-cds.cdn.hinet.net
+||hmoegirl.com
 ||hmvdigital.ca
 ||hmvdigital.com
 ||homedepot.com
@@ -150,6 +148,7 @@ share.dmhy.org
 |http://www.hustlercash.com
 ||hybrid-analysis.com
 ||cdn*.i-scmp.com
+||ilbe.com
 ||ilovelongtoes.com
 |http://imgmega.com/*.gif.html
 |http://imgmega.com/*.jpg.html
@@ -163,6 +162,7 @@ share.dmhy.org
 ||javlibrary.com
 ||jcpenney.com
 ||jims.net
+||tv.jtbc.joins.com
 ||jukujo-club.com
 ||juliepost.com
 ||kawaiikawaii.jp
@@ -176,6 +176,7 @@ share.dmhy.org
 |http://www.m-sport.co.uk
 ||macgamestore.com
 ||madonna-av.com
+||mandiant.com
 ||mangafox.com
 ||mangafox.me
 ||manta.com
@@ -195,10 +196,12 @@ share.dmhy.org
 ||mvg.jp
 .mybet.com
 ||mybet.com
+||mypikpak.com
 ||nationwide.com
 |http://www.nbc.com/live
 ||neo-miracle.com
 ||netflix.com
+||netflix.net
 ||nflximg.com
 ||nflximg.net
 ||nflxext.com
@@ -206,6 +209,9 @@ share.dmhy.org
 ||nflxvideo.net
 ||nic.gov
 |http://mo.nightlife141.com
+||purpose.nike.com
+||noxinfluencer.com
+@@||cn.noxinfluencer.com
 ||nordstrom.com
 ||nordstromimage.com
 ||nordstromrack.com
@@ -220,17 +226,20 @@ share.dmhy.org
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
+||openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
 ||phmsociety.org
 |http://*.pimg.tw/
+||podcast.co
 ||pure18.com
 ||pytorch.org
 ||qq.co.za
 ||r18.com
 |http://radiko.jp
 ||ramcity.com.au
+||rateyourmusic.com
 ||rd.com
 ||rdio.com
 |https://riseup.net
@@ -240,6 +249,7 @@ share.dmhy.org
 ||shiksha.com
 ||slacker.com
 ||sm-miracle.com
+||softnology.biz
 ||soylentnews.org
 ||spotify.com
 ||spreadshirt.es
@@ -255,8 +265,11 @@ share.dmhy.org
 ||login.target.com
 !--@@||intl.target.com
 ||rcam.target.com
+||technews.tw
+||terabox.com
 ||thinkgeek.com
 ||thebodyshop-usa.com
+||tiktok.com
 ||tma.co.jp
 ||tracfone.com
 ||tryheart.jp
@@ -276,6 +289,7 @@ share.dmhy.org
 ||wheretowatch.com
 ||wingamestore.com
 ||wizcrafts.net
+||wowhead.com
 ||vod.wwe.com
 ||xfinity.com
 ||youwin.com
@@ -283,7 +297,6 @@ share.dmhy.org
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
-
 
 !##############General List Start###############
 !-------------------Pure IP---------------------
@@ -2098,6 +2111,7 @@ adultkeep.net/peepshow/members/main.htm
 ||advanscene.com
 ||advertfan.com
 .ae.org
+||aei.org
 ||aenhancers.com
 ||af.mil
 .afantibbs.com
@@ -4794,21 +4808,22 @@ in-disguise.com
 ||timesofindia.indiatimes.com
 .indiemerch.com
 ||indiemerch.com
-info-graf.fr
+||info-graf.fr
 website.informer.com
 ||initiativesforchina.org
-.inkui.com
-.inmediahk.net
+||inkui.com
+||inmediahk.net
 ||inmediahk.net
 ||innermongolia.org
 ||inoreader.com
-.inote.tw
-.insecam.org
+||inote.tw
+||insecam.org
 |http://insecam.org
 ||inside.com.tw
 ||insidevoa.com
-.institut-tibetain.org
-|http://internet.org/
+||institut-tibetain.org
+||interactivebrokers.com
+||internet.org
 internetdefenseleague.org
 internetfreedom.org
 !--||interpol.int
@@ -6842,7 +6857,8 @@ spem.at
 .spotflux.com
 ||spotflux.com
 .spring4u.info
-|http://spring4u.info
+||spring4u.info
+||springwood.me
 ||sproutcore.com
 ||sproxy.info
 ||squirrelvpn.com
@@ -7126,6 +7142,7 @@ thehousenews.com
 ||theporndude.com
 ||theportalwiki.com
 ||theprint.in
+||threadreaderapp.com
 thereallove.kr
 therock.net.nz
 ||thesaturdaypaper.com.au
@@ -8253,6 +8270,7 @@ yinlei.org/mt
 .yomiuri.co.jp
 yong.hu
 .yorkbbs.ca
+||you.com
 ||youxu.info
 .youjizz.com
 ||youjizz.com
@@ -8396,7 +8414,6 @@ zyzc9.com
 .zzcartoon.com
 !##############General List End#################
 
-
 !###########Supplemental List Start#############
 !-----------------URL Keywords------------------
 64memo
@@ -8427,38 +8444,49 @@ ultrasurf
 @@||adservice.google.com
 !--ISP cache works sometimes, verified at drpeng + gehua.
 @@||dl.google.com
-@@||kh.google.com
-@@||khm.google.com
-@@||khm0.google.com
-@@||khm1.google.com
-@@||khm2.google.com
-@@||khm3.google.com
-@@||khmdb.google.com
+!--@@||kh.google.com
+!--@@||khm.google.com
+!--@@||khm0.google.com
+!--@@||khm1.google.com
+!--@@||khm2.google.com
+!--@@||khm3.google.com
+!--@@||khmdb.google.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
 @@||fonts.googleapis.com
-@@||khm.googleapis.com
-@@||khm0.googleapis.com
-@@||khm1.googleapis.com
-@@||khm2.googleapis.com
-@@||khm3.googleapis.com
-@@||khmdb.googleapis.com
+!--@@||khm.googleapis.com
+!--@@||khm0.googleapis.com
+!--@@||khm1.googleapis.com
+!--@@||khm2.googleapis.com
+!--@@||khm3.googleapis.com
+!--@@||khmdb.googleapis.com
 @@||storage.googleapis.com
-@@||translate.googleapis.com
+!--@@||translate.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||cn.gravatar.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
+!--@@||connectivitycheck.gstatic.com
+!--@@||csi.gstatic.com
+!--@@||fonts.gstatic.com
+!--@@||ssl.gstatic.com
 @@||haosou.com
 @@||ip.cn
+@@||jike.com
 @@|http://translate.google.cn
 @@|http://www.google.cn/maps
 @@||http2.golang.org
 @@||gov.cn
+@@||ocsp.pki.goog
+@@||qq.com
+@@||sina.cn
+@@||sina.com.cn
+@@||sogou.com
+@@||so.com
+@@||soso.com
 @@||uluai.com.cn
+@@||weibo.com
+@@||yahoo.cn
+@@||youdao.com
 @@||zhongsou.com
 @@|http://ime.baidu.jp
 !################Whitelist End##################
