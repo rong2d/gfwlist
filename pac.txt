@@ -227,6 +227,7 @@ share.dmhy.org
 ||ontrac.com
 @@|http://blog.ontrac.com
 ||openai.com
+.openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
