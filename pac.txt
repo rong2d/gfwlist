@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Lmde7r8MXmLaN7dSMdXxfg
+! Checksum: m8EjIvfukxZjwL3rPNYs6Q
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 28 Feb 2023 22:50:34 -0500
+! Last Modified: Sun, 26 Mar 2023 09:35:48 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -18,6 +18,8 @@
 !#############Personal List Start###############
 !---powered by R-----
 ||bdys.me
+||bing.com
+.bing.com
 ||blacked.com
 ||btbdys.com
 ||btbtt12.com
@@ -38,6 +40,7 @@
 .playstation.com
 ||pbskids.org
 .pbskids.org
+||readberserk.com
 ||tampermonkey.net
 ||torrentz2.eu
 ||tunnelbroker.net
@@ -45,7 +48,6 @@
 ||ubisoft.com
 .ubisoft.com
 !#############Personal List End#################
-
 
 
 !---------403/451/503/520 & URL Redirects---------
@@ -221,13 +223,13 @@ share.dmhy.org
 ||s1.nudezz.com
 ||nusatrip.com
 ||nuuvem.com
+||olehdtv.com
 ||omni7.jp
 ||onapp.com
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
 ||openai.com
-.openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -1380,6 +1382,7 @@ blogspot.com
 ||chromercise.com
 ||chromestatus.com
 ||chromium.org
+||cloudfunctions.net
 ||com.google
 ||crbug.com
 ||creativelab5.com
@@ -2229,6 +2232,7 @@ animecrazy.net
 aniscartujo.com
 ||aniscartujo.com
 ||anobii.com
+||anonfiles.com
 .anonymitynetwork.com
 .anonymizer.com
 .anonymouse.org
@@ -4890,8 +4894,8 @@ isuntv.com
 ||isupportuyghurs.org
 itaboo.info
 ||itaboo.info
-.italiatibet.org
-download.ithome.com.tw
+||italiatibet.org
+||itemfix.com
 ithelp.ithome.com.tw
 ||itshidden.com
 .itsky.it
@@ -4905,7 +4909,7 @@ ithelp.ithome.com.tw
 ||ivacy.com
 .iverycd.com
 .ivpn.net
-!--||ivpn.net
+||ivpn.net
 ||ixquick.com
 .ixxx.com
 .iyouport.com
@@ -5179,6 +5183,7 @@ latelinenews.com
 ||le-vpn.com
 .leafyvpn.net
 ||leafyvpn.net
+||ledger.com
 leeao.com.cn/bbs/forum.php
 !--||leecheukyan.org
 lefora.com
