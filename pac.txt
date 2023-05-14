@@ -41,6 +41,8 @@
 ||pbskids.org
 .pbskids.org
 ||readberserk.com
+||rmdown.com
+.rmdown.com
 ||tampermonkey.net
 ||torrentz2.eu
 ||tunnelbroker.net
