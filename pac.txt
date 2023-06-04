@@ -23,6 +23,8 @@
 ||blacked.com
 ||btbdys.com
 ||btbtt12.com
+||disneyplus.com
+.disneyplus.com
 ||docker.com
 ||epicgames.com
 .epicgames.com
