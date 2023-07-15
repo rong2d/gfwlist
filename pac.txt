@@ -17,12 +17,16 @@
 
 !#############Personal List Start###############
 !---powered by R-----
+||anthropic.com
+.anthropic.com
 ||bdys.me
 ||bing.com
 .bing.com
 ||blacked.com
 ||btbdys.com
 ||btbtt12.com
+||claude.ai
+.claude.ai
 ||docker.com
 ||epicgames.com
 .epicgames.com
