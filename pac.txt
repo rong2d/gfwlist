@@ -24,7 +24,7 @@
 .bing.com
 ||blacked.com
 ||btbdys.com
-||btbtt12.com
+||btbtt*.com
 ||docker.com
 ||epicgames.com
 .epicgames.com
@@ -45,6 +45,8 @@
 ||readberserk.com
 ||rmdown.com
 .rmdown.com
+||synocommunity.com
+.synocommunity.com
 ||tampermonkey.net
 ||torrentz2.eu
 ||tunnelbroker.net
