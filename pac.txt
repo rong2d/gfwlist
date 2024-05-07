@@ -17,16 +17,13 @@
 
 !#############Personal List Start###############
 !---powered by R-----
-||anthropic.com
-.anthropic.com
+
 ||bdys.me
 ||bing.com
 .bing.com
 ||blacked.com
 ||btbdys.com
 ||btbtt12.com
-||claude.ai
-.claude.ai
 ||docker.com
 ||epicgames.com
 .epicgames.com
@@ -54,6 +51,53 @@
 ||ubisoft.com
 .ubisoft.com
 !#############Personal List End#################
+
+!------AI-------
+||ai.com
+.ai.com
+.akamaized.net
+||anthropic.com
+.anthropic.com
+.azureedge.net
+.azurefd.net
+.blob.core.windows.net
+.cdn.auth0.com
+||cdn.cloudflare.net
+cdn.cloudflare.net
+||challenges.cloudflare.com
+.challenges.cloudflare.com
+||chatgpt.com
+.chatgpt.com
+||claude.ai
+.claude.ai
+||cloudflareinsights.com
+.cloudflareinsights.com
+||compute-pipe.com
+.compute-pipe.com
+||doubleclick.net
+.doubleclick.net
+||edgecompute.app
+.edgecompute.app
+||gpt3sandbox.com
+.gpt3sandbox.com
+||gstatic.com
+.gstatic.com
+||hcaptcha.com
+.hcaptcha.com
+||identrust.com
+.identrust.com
+||oaistatic.com
+.oaistatic.com
+||oaiusercontent.com
+.oaiusercontent.com
+||openai.com
+.openai.com
+.openaiapi-site.azureedge.net
+.openaicom.imgix.net
+||recaptcha.net
+.recaptcha.net
+||statsigapi.net
+.statsigapi.net
 
 !----------DisneyPlus---------
 !include:abc
@@ -379,7 +423,6 @@ share.dmhy.org
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
-||openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
