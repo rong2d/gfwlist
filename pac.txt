@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: AN5tMVoFXnNuEYITB6GsUg
+! Checksum: JVrLsrIjkDiSX67WEFpxDw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 28 Mar 2024 14:51:38 -0400
+! Last Modified: Thu, 18 Apr 2024 11:17:15 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -14,6 +14,7 @@
 ! contact us regarding URL submission / removal,
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
+
 
 !#############Personal List Start###############
 !---powered by R-----
@@ -50,7 +51,7 @@
 .tunnelbroker.net
 ||ubisoft.com
 .ubisoft.com
-!#############Personal List End#################
+
 
 !------AI-------
 ||ai.com
@@ -241,6 +242,9 @@ cdn.cloudflare.net
 ||thisispolaris.com
 ||watchdisneyfe.com
 
+!#############Personal List End#################
+
+
 
 !---------403/451/503/520 & URL Redirects---------
 !--ehentai
@@ -423,6 +427,7 @@ share.dmhy.org
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
+||openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -491,6 +496,7 @@ share.dmhy.org
 ||xiaomi.eu
 ||youwin.com
 ||ytn.co.kr
+||zamimg.com
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
@@ -715,10 +721,12 @@ share.dmhy.org
 ||dragonex.io
 ||ebtcbank.com
 ||etherdelta.com
+||ethermine.org
 ||etherscan.io
 ||exmo.com
 ||exrates.me
 ||exx.com
+||f2pool.com
 ||fatbtc.com
 ||ftx.com
 ||gate.io
@@ -1931,7 +1939,7 @@ cn.nytstyle.com
 @@||nmp.gov.tw
 @@||nmvttc.gov.tw
 @@||northguan-nsa.gov.tw
-@@||npm.gov.tw
+||npm.gov.tw
 @@||nstm.gov.tw
 @@||ntdmh.gov.tw
 @@||ntl.gov.tw
@@ -4850,6 +4858,7 @@ hqmovies.com
 .hrea.org
 .hrichina.org
 ||hrichina.org
+||hrntt.org
 .hrtsea.com
 .hrw.org
 ||hrw.org
@@ -4929,7 +4938,7 @@ ibros.org
 .ibvpn.com
 ||ibvpn.com
 icams.com
-blogs.icerocket.com/tag
+||icedrive.net
 .icij.org
 ||icij.org
 ||icl-fi.org
@@ -5243,6 +5252,7 @@ juziyue.com
 ||juziyue.com
 ||jwmusic.org
 @@||music.jwmusic.org
+||cdn.jwplayer.com
 .jyxf.net
 
 !--------------------KK-------------------------
@@ -6414,6 +6424,7 @@ politicalconsultation.org
 postadult.com
 .postimg.org
 ||potvpn.com
+||pourquoi.tw
 ||powercx.com
 .powerphoto.org
 ||www.powerpointninja.com
@@ -6693,6 +6704,7 @@ rfaweb.org
 .roodo.com
 .rosechina.net
 .rotten.com
+||rou.video
 .rsf.org
 ||rsf.org
 .rsf-chinese.org
@@ -8335,7 +8347,7 @@ wretch.cc
 .wtfpeople.com
 wuerkaixi.com
 ||wufafangwen.com
-wufi.org.tw
+||wufi.org.tw
 ||wuguoguang.com
 wujie.net
 wujieliulan.com
@@ -8721,4 +8733,3 @@ ultrasurf
 @@|http://ime.baidu.jp
 !################Whitelist End##################
 !---------------------EOF-----------------------
-
