@@ -2115,6 +2115,7 @@ zh.uncyclopedia.wikia.com
 ||wikipedia.org
 
 !!---Yahoo---
+||yahoo.com
 ||data.flurry.com
 ||page.bid.yahoo.com
 ||tw.bid.yahoo.com
