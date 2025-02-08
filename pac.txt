@@ -41,6 +41,10 @@
 .muamh.com
 ||nintendo.com
 .nintendo.com
+||name.com
+.name.com
+||namecheap.com
+.namecheap.com
 ||playstation.com
 .playstation.com
 ||pbskids.org
