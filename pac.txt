@@ -49,6 +49,20 @@
 ||tunnelbroker.net
 ||ubisoft.com
 
+!------Telegram-------
+||t.me
+||tx.me
+||telegra.ph
+||telesco.pe
+||stel.com
+||telegram.dog
+||telegram.me
+||telegram.org
+||telegram.space
+||tdesktop.com
+||telegram-cdn.org
+||fragment.com
+||nicegram.app
 
 !------AI-------
 ||ai.com
